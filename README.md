@@ -33,7 +33,7 @@ No real systems or unauthorized targets were involved.
 * Demonstrated authentication bypass using crafted inputs
 * Extracted sensitive database information using manual and automated techniques
 
-📸 Example (Data Extraction via SQL Injection):
+Example (Data Extraction via SQL Injection):
 ![SQL Injection](screenshots/sql-injection.png)
 
 ---
@@ -44,10 +44,10 @@ No real systems or unauthorized targets were involved.
 * Enumerated available databases
 * Extracted tables and user credentials
 
-📸 Database Enumeration:
+Database Enumeration:
 ![sqlmap databases](screenshots/sqlmap-db.png)
 
-📸 Extracted Users Table:
+Extracted Users Table:
 ![sqlmap users](screenshots/sqlmap-users.png)
 
 ---
@@ -58,14 +58,14 @@ No real systems or unauthorized targets were involved.
 * Injected JavaScript payloads into input fields
 * Demonstrated real-time script execution in browser
 
-📸 Reflected XSS:
+Reflected XSS:
 ![Reflected XSS](screenshots/xss-reflected.png)
 
 #### Stored XSS
 * Stored malicious scripts in the application database
 * Demonstrated persistent execution affecting multiple users
 
-📸 Stored XSS:
+Stored XSS:
 ![Stored XSS](screenshots/xss-stored.png)
 
 ---
